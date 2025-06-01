@@ -24,17 +24,17 @@ Prompt Engineering · LLMs · Code Review · Debugging · Realidad Virtual · e-
 
 ## 🚀 Proyectos destacados
 
-**🎮 Juego educativo en Realidad Virtual**  
-Desarrollo de un juego en Unity que enseña pensamiento computacional mediante mecánicas inmersivas. Integración de FSM, interacciones con Fungus y UltimateXR.
+**✏️ API RESTful para notas personales**  
+Proyecto en Python con FastAPI, arquitectura limpia y modular (`api`, `core`, `services`). Incluye autenticación, validación y almacenamiento.
 
 **📊 Plataforma de análisis de telemetría en F1 (en curso)**  
 Arquitectura monorepo con FastAPI y React. Uso de FastF1 para analizar datos de rendimiento de pilotos, laps, stints y estrategias.
 
-**✏️ API RESTful para notas personales**  
-Proyecto en Python con FastAPI, arquitectura limpia y modular (`api`, `core`, `services`). Incluye autenticación, validación y almacenamiento.
-
 **⭕ Tic Tac Toe Web Game**  
 Frontend en HTML/CSS/JS y backend en FastAPI. Código modular y escalable con lógica de juego desacoplada.
+
+**🎮 Juego educativo en Realidad Virtual**  
+Desarrollo de un juego en Unity que enseña pensamiento computacional mediante mecánicas inmersivas. Integración de FSM, interacciones con Fungus y UltimateXR.
 
 ---
 
@@ -77,7 +77,7 @@ Tesis: *Aplicación Educativa en Realidad Virtual para Fomentar Habilidades Crí
 
 **LinkedIn:** [linkedin.com/in/isaiasricardov](https://www.linkedin.com/in/isaiasricardov)  
 **Email:** isaiasricardov@gmail.com  
-**GitHub:** [github.com/IsaiasRicardo](https://github.com/IsaiasRicardo)
+**GitHub:** [github.com/IsaiasRicardo](https://github.com/IsaiasRVH2)
 
 ---
 
