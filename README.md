@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hola, soy Isaías Ricardo Valdivia
 
-<!--
-**IsaiasRVH2/IsaiasRVH2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador de Software | Ingeniero en Ciencia de Datos | Entusiasta de la Inteligencia Artificial y Realidad Virtual**
 
-Here are some ideas to get you started:
+Apasionado por construir soluciones tecnológicas eficientes, escalables e intuitivas. Tengo experiencia en proyectos que combinan programación, datos, cloud computing, inteligencia artificial y desarrollo de videojuegos. Me especializo en Python, desarrollo de APIs REST, análisis de datos y proyectos educativos con tecnologías inmersivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tecnologías y herramientas
+
+**Lenguajes:**  
+Python · JavaScript · SQL · CQL
+
+**Frameworks y Librerías:**  
+FastAPI · Pandas · NumPy · Scikit-learn · Matplotlib · Unity (Fungus)
+
+**Herramientas y Plataformas:**  
+Git · GitHub · Docker · Google Cloud Platform · Apache Cassandra
+
+**Otros:**  
+Prompt Engineering · LLMs · Code Review · Debugging · Realidad Virtual · e-Learning
+
+---
+
+## 🚀 Proyectos destacados
+
+**🎮 Juego educativo en Realidad Virtual**  
+Desarrollo de un juego en Unity que enseña pensamiento computacional mediante mecánicas inmersivas. Integración de FSM, interacciones con Fungus y UltimateXR.
+
+**📊 Plataforma de análisis de telemetría en F1 (en curso)**  
+Arquitectura monorepo con FastAPI y React. Uso de FastF1 para analizar datos de rendimiento de pilotos, laps, stints y estrategias.
+
+**✏️ API RESTful para notas personales**  
+Proyecto en Python con FastAPI, arquitectura limpia y modular (`api`, `core`, `services`). Incluye autenticación, validación y almacenamiento.
+
+**⭕ Tic Tac Toe Web Game**  
+Frontend en HTML/CSS/JS y backend en FastAPI. Código modular y escalable con lógica de juego desacoplada.
+
+---
+
+## 📜 Certificaciones
+
+- **Google Associate Cloud Engineer** *(Español)*
+- **HCIA AI Huawei Certification**
+- **Python (Basic) – HackerRank**
+- **Make Unity 3D Interactive Games with Fungus – Udemy**
+- **Certificate of 3D Models for Virtual Reality – University of London**
+- **Getting Started with Apache Cassandra – Whizlabs**
+- **Múltiples Skill Badges de Google Cloud:**
+  - Build a Secure Cloud Network
+  - Implement Cloud Security Fundamentals
+  - Load Balancing on Compute Engine
+  - Set Up App Dev Environment
+  - Develop Your Google Cloud Network
+
+---
+
+## 📚 Educación
+
+**Ingeniería en Ciencia de Datos**  
+Universidad Autónoma de Chiapas (UNACH)  
+Tesis: *Aplicación Educativa en Realidad Virtual para Fomentar Habilidades Críticas en el Pensamiento Computacional*
+
+---
+
+## 🧠 Aptitudes
+
+- **Programación:** Python, estructuras de datos, debugging, revisión de código  
+- **IA / ML:** LLMs, aprendizaje automático, profundo y análisis de datos  
+- **Cloud y DevOps:** GCP, redes, balanceo de carga, seguridad  
+- **Base de datos:** NoSQL, Cassandra, CQL, Big Data  
+- **Interpersonales:** Resolución de problemas, inglés, pensamiento crítico
+
+---
+
+## 📫 Contacto
+
+**LinkedIn:** [linkedin.com/in/isaiasricardov](https://www.linkedin.com/in/isaiasricardov)  
+**Email:** isaiasricardov@gmail.com  
+**GitHub:** [github.com/IsaiasRicardo](https://github.com/IsaiasRicardo)
+
+---
+
+> “La tecnología solo cobra sentido cuando mejora vidas y educa a quienes la usan.”
