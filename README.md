@@ -9,10 +9,10 @@ Apasionado por construir soluciones tecnológicas eficientes, escalables e intui
 ## 🧰 Tecnologías y herramientas
 
 **Lenguajes:**  
-Python · JavaScript · SQL · CQL
+Python · Java · C · R · HTML · CSS · JavaScript · SQL · CQL
 
 **Frameworks y Librerías:**  
-FastAPI · Pandas · NumPy · Scikit-learn · Matplotlib · Unity (Fungus)
+FastAPI · Pandas · TensorFlow · OpenCV · NumPy · Scikit-learn · Matplotlib · Seaborn · Unity (Fungus)
 
 **Herramientas y Plataformas:**  
 Git · GitHub · Docker · Google Cloud Platform · Apache Cassandra
