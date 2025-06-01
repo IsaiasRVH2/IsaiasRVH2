@@ -75,8 +75,8 @@ Tesis: *Aplicación Educativa en Realidad Virtual para Fomentar Habilidades Crí
 
 ## 📫 Contacto
 
-**LinkedIn:** [linkedin.com/in/isaiasricardov](https://www.linkedin.com/in/isaiasricardov)  
-**Email:** isaiasricardov@gmail.com  
+**LinkedIn:** [linkedin.com/in/isaiasricardov](https://www.linkedin.com/in/isaias-valdivia)  
+**Email:** isaias.valdivia147@gmail.com  
 **GitHub:** [github.com/IsaiasRicardo](https://github.com/IsaiasRVH2)
 
 ---
