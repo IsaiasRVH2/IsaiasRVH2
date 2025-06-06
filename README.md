@@ -57,9 +57,13 @@ Desarrollo de un juego en Unity que enseña pensamiento computacional mediante m
 
 ## 📚 Educación
 
-**Ingeniería en Ciencia de Datos**  
-Universidad Autónoma de Chiapas (UNACH)  
-Tesis: *Aplicación Educativa en Realidad Virtual para Fomentar Habilidades Críticas en el Pensamiento Computacional*
+
+**Maestria en Ciencias del Procesamiento de la Información**  
+Universidad Autónoma de Zacatecas (UAZ)  
+
+**Ingeniería en Tecnologías Computacionales**  
+Universidad Autónoma de Zacatecas (UAZ)  
+
 
 ---
 
