@@ -1,88 +1,37 @@
-# 👋 Hola, soy Isaías Ricardo Valdivia
+<h1 align="center">Hi 👋, I'm Isaías Ricardo Valdivia</h1>
+<h3 align="center">A passionate Software Developer and Data Scientist from Mexicó</h3>
 
-**Desarrollador de Software | Ingeniero en Ciencia de Datos | Entusiasta de la Inteligencia Artificial y Realidad Virtual**
+- 🔭 I’m currently working on **a Reddit data mining project**
 
-Apasionado por construir soluciones tecnológicas eficientes, escalables e intuitivas. Tengo experiencia en proyectos que combinan programación, datos, cloud computing, inteligencia artificial y desarrollo de videojuegos. Me especializo en Python, desarrollo de APIs REST, análisis de datos y proyectos educativos con tecnologías inmersivas.
+- 🌱 I’m currently learning **GitHub Actions, Backend Development with FastAPI and MLOps**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/IsaiasRVH2](https://github.com/IsaiasRVH2)
 
-## 🧰 Tecnologías y herramientas
+- 💬 Ask me about **Machine Learning and Python**
 
-**Lenguajes:**  
-Python · Java · C · R · HTML · CSS · JavaScript · SQL · CQL
+- 📫 How to reach me **isaias.valdivia147@gmail.com**
 
-**Frameworks y Librerías:**  
-FastAPI · Pandas · TensorFlow · OpenCV · NumPy · Scikit-learn · Matplotlib · Seaborn · Unity (Fungus)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/isaias-valdivia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaias-valdivia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@isaiasrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@isaiasrv" height="30" width="40" /></a>
+</p>
 
-**Herramientas y Plataformas:**  
-Git · GitHub · Docker · Google Cloud Platform · Apache Cassandra
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-**Otros:**  
-Prompt Engineering · LLMs · Code Review · Debugging · Realidad Virtual · e-Learning
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IsaiasRVH2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IsaiasRVH2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasRVH2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IsaiasRVH2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 Proyectos destacados
-
-**✏️ API RESTful para notas personales**  
-Proyecto en Python con FastAPI, arquitectura limpia y modular (`api`, `core`, `services`). Incluye autenticación, validación y almacenamiento.
-
-**📊 Plataforma de análisis de telemetría en F1 (en curso)**  
-Arquitectura monorepo con FastAPI y React. Uso de FastF1 para analizar datos de rendimiento de pilotos, laps, stints y estrategias.
-
-**⭕ Tic Tac Toe Web Game**  
-Frontend en HTML/CSS/JS y backend en FastAPI. Código modular y escalable con lógica de juego desacoplada.
-
-**🎮 Juego educativo en Realidad Virtual**  
-Desarrollo de un juego en Unity que enseña pensamiento computacional mediante mecánicas inmersivas. Integración de FSM, interacciones con Fungus y UltimateXR.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IsaiasRVH2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=IsaiasRVH2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📜 Certificaciones
-
-- **Google Associate Cloud Engineer** *(Español)*
-- **HCIA AI Huawei Certification**
-- **Python (Basic) – HackerRank**
-- **Make Unity 3D Interactive Games with Fungus – Udemy**
-- **Certificate of 3D Models for Virtual Reality – University of London**
-- **Getting Started with Apache Cassandra – Whizlabs**
-- **Múltiples Skill Badges de Google Cloud:**
-  - Build a Secure Cloud Network
-  - Implement Cloud Security Fundamentals
-  - Load Balancing on Compute Engine
-  - Set Up App Dev Environment
-  - Develop Your Google Cloud Network
-
----
-
-## 📚 Educación
-
-
-**Maestria en Ciencias del Procesamiento de la Información**  
-Universidad Autónoma de Zacatecas (UAZ)  
-
-**Ingeniería en Tecnologías Computacionales**  
-Universidad Autónoma de Zacatecas (UAZ)  
-
-
----
-
-## 🧠 Aptitudes
-
-- **Programación:** Python, estructuras de datos, debugging, revisión de código  
-- **IA / ML:** LLMs, aprendizaje automático, profundo y análisis de datos  
-- **Cloud y DevOps:** GCP, redes, balanceo de carga, seguridad  
-- **Base de datos:** NoSQL, Cassandra, CQL, Big Data  
-- **Interpersonales:** Resolución de problemas, inglés, pensamiento crítico
-
----
-
-## 📫 Contacto
-
-**LinkedIn:** [linkedin.com/in/isaiasricardov](https://www.linkedin.com/in/isaias-valdivia)  
-**Email:** isaias.valdivia147@gmail.com  
-**GitHub:** [github.com/IsaiasRicardo](https://github.com/IsaiasRVH2)
-
----
-
-> “La tecnología solo cobra sentido cuando mejora vidas y educa a quienes la usan.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
